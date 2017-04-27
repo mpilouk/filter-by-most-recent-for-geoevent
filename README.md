@@ -1,6 +1,6 @@
 # filter-by-most-recent-for-geoevent
 
-ArcGIS 10.3.x GeoEvent Extension sample Filter by Most Recent Processor for filtering out any previous events that have date value in the Date field with TIME_START tag older than the most recent one.
+ArcGIS GeoEvent Extension sample Filter by Most Recent Processor for filtering out any previous events that have date value in the Date field with TIME_START tag older than the most recent one.
 
 ![App](filter-by-most-recent-for-geoevent.png?raw=true)
 
