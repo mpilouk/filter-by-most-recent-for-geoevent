@@ -40,7 +40,7 @@ public class FilterByMostRecentDefinition extends GeoEventProcessorDefinitionBas
 	@Override
 	public String getVersion()
 	{
-		return "10.3.0";
+		return "10.5.0";
 	}
 
 	@Override
